@@ -116,23 +116,6 @@ Widget system: Quickshell | Support: Yes
  - AGS: [Aylur](https://github.com/Aylur/dotfiles/tree/ags-pre-ts), [kotontrion](https://github.com/kotontrion/dotfiles)
  - EWW: [fufexan](https://github.com/fufexan/dotfiles)
 
-<div align="center">
-    <h2>• stonks •</h2>
-    <h3></h3>
-</div>
-
-- I promise not to attempt an +ULTRARICOSHOT irl... Coins can go here: https://github.com/sponsors/end-4
-- Tentacle cat hub twinkle internet points
-
-[![Stargazers over time](https://starchart.cc/end-4/dots-hyprland.svg?variant=adaptive)](https://starchart.cc/end-4/dots-hyprland)
-
-
----
-
-<div align="center">
-    <h2>• previous styles •</h2>
-    <h3></h3>
-</div>
 
 - **Unsupported!**
 - **Source**: illogical-impulse AGS in `ii-ags` branch, others in `archive` branch.
